@@ -1,6 +1,6 @@
 <h1 align="center">Hey there :wave:</h2>
 
-I am a young programmer, working primaly with Python.
+I am a young programmer.
 
 ## Stack
 
