@@ -1,12 +1,14 @@
-<h1 align="center">Hey there :wave:</h2>
+<div align="center">
+  <img align="center" height=350 width=350 src="./docs/typing.gif"></img>
+  <h1 align="center">Hey there :wave:</h2>
+</div>
 
-I am a young programmer.
 
-## Stack
+<p align="center">I'm a 15 year old Python and programming student.</p>
 
-I used to study Python more, but I know other technologies.
+<h2>Stack</h2>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Py" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,8 +18,8 @@ I used to study Python more, but I know other technologies.
 </div>
 
 
-## Stats
+<h2>Stats</h2>
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlHan&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlHan&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true" />
 
 ![visitors](https://komarev.com/ghpvc/?username=vlHan&color=blue)
