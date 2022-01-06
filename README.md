@@ -4,7 +4,7 @@
 </div>
 
 
-<p align="center">I'm a 15 year old Python and programming student.</p>
+<p align="center">I'm a 15 years old Python and programming student.</p>
 
 <h3>Stack</h3>
 
