@@ -6,7 +6,7 @@
 
 <p align="center">I'm a 15 year old Python and programming student.</p>
 
-<h2>Stack</h2>
+<h3>Stack</h3>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Py" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -18,8 +18,11 @@
 </div>
 
 
-<h2>Stats</h2>
+<h3>Stats</h3>
 
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlHan&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true" />
+<div align="center"> 
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlHan&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true" />
+
+</div>
 
 ![visitors](https://komarev.com/ghpvc/?username=vlHan&color=blue)
