@@ -34,7 +34,6 @@
 
         h1 {
             padding-top: 10px;
-            padding-bottom: 20px;
             font-size: 50px;
         }
         p {
@@ -47,6 +46,22 @@
         }
         a:hover {
             color: #00CDA1;
+        }
+        ul {
+            margin: 0;
+        }
+
+        ul.dashed {
+            list-style-type: none;
+        }
+
+        ul.dashed > li {
+            text-indent: -25px;
+        }
+
+        ul.dashed > li:before {
+            content: "-";
+            text-indent: -5px;
         }
     </style>
 </head>
@@ -81,13 +96,16 @@
         </nav>
     </header>
     <section class="pt-3">
-        <h1>hey there, I'm Vitor</h1>
-        <p>I'm a 15 years old Python and programming student. I've got interests in several areas of Computer Science, but primarily on Machine Learning with Python.</p>
-        <div class="d-flex pt-4">
-            <a href="https://github.com/vlHan" style="padding-left:0px;padding-right:20px;text-decoration:none;font-size:2.0em" target="_blank"><i class="fa fa-github"></i></a>
-            <a href="mailto:vitorleehan123@gmail.com" style="padding-left:20px;padding-right:20px;text-decoration:none;font-size:2.0em"><i class="fa fa-envelope"></i></a>
-            <a href="#"  style="padding-left:20px;text-decoration:none;font-size:2.0em"><i class="fa fa-linkedin"></i></a>
-        </div>
+        <h1>stack</h1>
+            <div>
+                <h5>Here are a few things I'm working with:</h5>
+                <ul class="dashed">
+                    <li> Python/JavaScript/C</li>
+                    <li> Machine Learning/Data Science</li>
+                    <li> HTML/CSS</li>
+                    <li> Git/Github</li>
+                </ul>
+            </div>
     </section>
 </body>
 
