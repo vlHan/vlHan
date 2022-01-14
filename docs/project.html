@@ -34,6 +34,7 @@
         h1 {
             padding-top: 10px;
             font-size: 50px;
+            font-weight: bold;
         }
 
         a {
@@ -60,7 +61,16 @@
         }
 
         .card-text {
-            color: #d4d4d4;
+            color: #737373;
+        }
+        .card {
+            transition: 0.4s;
+        }
+        .card:hover {
+            transition: 0.4s;
+            -moz-transform: scale(1.05);
+            -webkit-transform: scale(1.05);
+            transform: scale(1.05)
         }
     </style>
 </head>
@@ -97,13 +107,12 @@
         </nav>
     </header>
     <section class="pt-3">
-        <h1>Projects</h1>
+        <h1>projects</h1>
         <div>
-            <h5>Here are a few things I'm working with:</h5>
             <p>Most of my open-source projects are visible on my <a class="github" target="_blank" href="https://github.com/vlHan">GitHub.</a></p>
             <a href="https://github.com/vlHan/PassVault" target="_blank" class="card text-white bg-black col-md-6 p-2">
                 <div class="card-body">
-                    <h5 class="card-title mb-3">PassVault</h5>
+                    <h5 class="card-title mb-3 fw-bold">PassVault</h5>
                     <i class="fab fa-python float-end" style="font-size:1.5rem; margin-top: -42px;"></i>
                     <p class="card-text">Command-line password manager that stores encrypted passwords.</p>
                 </div>
