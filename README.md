@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="center" height=350 width=350 src="./docs/typing.gif"></img>
-  <h1 align="center">Hey there :wave:</h2>
+  <img height=350 width=350 src="./docs/typing.gif"></img>
+  <h1>Hey there :wave:</h2>
 </div>
 
 
