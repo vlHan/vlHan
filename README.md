@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="center" height=350 width=350 src="./docs/typing.gif"></img>
-  <h1 align="center">Hey there :wave:</h2>
+  <img height=350 width=350 src="./docs/typing.gif"></img>
+  <h1>Hey there :wave:</h2>
 </div>
 
 
@@ -11,7 +11,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Py" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="TD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Linux" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Vim" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   <img align="center" alt="Bash" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
