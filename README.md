@@ -4,12 +4,12 @@
 </div>
 
 
-<p align="center">I'm a 15 years old Python and programming student.</p>
+<p align="center">I'm a 15 years old Python and Programming Student.</p>
 
 <h3>Stack</h3>
 
 <div style="display: inline_block" align="center"><br>
-  <img alt="Py" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img alt="Py" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Java" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
