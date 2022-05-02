@@ -1,5 +1,5 @@
 <div align="center">
-  <img height=350 width=350 src="./docs/typing.gif"></img>
+  <img height=350 width=350 src="./docs/typing.gif"/>
   <h1>Hey there :wave:</h2>
 </div>
 
