@@ -1,10 +1,8 @@
 <div align="center">
   <img height=350 width=350 src="./docs/typing.gif"/>
   <h1>Hey there :wave:</h2>
+  <p>I'm a 15 years old Python and Programming Student.</p>
 </div>
-
-
-<p align="center">I'm a 15 years old Python and Programming Student.</p>
 
 <h3>Stack</h3>
 
